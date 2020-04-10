@@ -20,5 +20,6 @@ linuxでは
 python3.7 stagebot.py
 python3.7 stagebotsub.py
 ```
-すぺしゃるさんくす
+起動したら「schelp」とテキストチャンネルに打つとコマンド一覧が表示されるよ
+# すぺしゃるさんくす
 [Spla2 API](https://spla2.yuu26.com/)
