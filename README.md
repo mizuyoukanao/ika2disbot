@@ -8,6 +8,7 @@ pip install requests
 pip install discord.py
 pip install schedule
 ```
+stagebot.pyの一番下の行にbotのtokenを入れ、
 stagebot.pyとstagebotsub.pyとstage_data.jsonを同じディレクトリ内に配置して(cdコマンドでそのディレクトリに移動したら)以下をそれぞれ実行
 Windows
 ```
